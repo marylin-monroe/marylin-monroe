@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marylin-monroe.marylin-monroe" />
 
-## Hi there 👋 I'm Korol 🏄🏻‍♂️
+## Hi there 👋 I'm Korol 🚀
 
 ### DeFi Engineer <> HFT Bot Developer
 
 **Currently my days are devoted to -**
-- ⛏️ Building HFT trading bots on Solana network.
+- ⛏️  Building HFT trading bots on Solana network.
 - 💰 Developing DeFi protocols and yield strategies.
 - 🤲🏼 Contributing to open source DeFi projects.
  
@@ -21,7 +21,7 @@
 <div align="center">
   <h2>🏋🏻 My Contributions 🏋🏻</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/marylin-monroe/marylin-monroe/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/marylin-monroe/marylin-monroe/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
