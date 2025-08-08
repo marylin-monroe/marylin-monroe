@@ -6,8 +6,8 @@
 
 **Currently my days are devoted to -**
 - ⛏️ Building HFT trading bots on Solana network.
-- 🤲🏼 Developing DeFi protocols and yield strategies.
-- 🔧 Contributing to open source DeFi projects.
+- 🔧 Developing DeFi protocols and yield strategies.
+- 🤲🏼 Contributing to open source DeFi projects.
  
 <p align="left">
  <h4>Connect with me</h4>
@@ -31,7 +31,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=marylin-monroe&count_private=true&show_icons=true&theme=react&rank_icon=percentile&border_radius=10&custom_title=marylin-monroe's%20GitHub%20Stats&icon_color=58a6ff" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=marylin-monroe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=marylin-monroe&theme=react&border_radius=10" alt="streak stats" />
 </div>
