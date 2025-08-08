@@ -5,9 +5,9 @@
 ### DeFi Engineer <> HFT Bot Developer
 
 **Currently my days are devoted to -**
-- ⛏️  Building HFT trading bots on Solana network.
-- 🔧 Developing DeFi protocols and yield strategies.
-- 🤲🏼 Contributing to open source DeFi projects.
+- ⛏️ Building HFT trading bots on Solana network.
+- 🤲🏼 Developing DeFi protocols and yield strategies.
+- 🔧 Contributing to open source DeFi projects.
  
 <p align="left">
  <h4>Connect with me</h4>
