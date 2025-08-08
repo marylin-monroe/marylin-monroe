@@ -6,7 +6,7 @@
 
 **Currently my days are devoted to -**
 - ⛏️  Building HFT trading bots on Solana network.
-- 💰 Developing DeFi protocols and yield strategies.
+- 🔧 Developing DeFi protocols and yield strategies.
 - 🤲🏼 Contributing to open source DeFi projects.
  
 <p align="left">
