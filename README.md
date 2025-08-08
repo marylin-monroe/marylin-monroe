@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marylin-monroe.marylin-monroe" />
 
-## Hi there 👋 I'm Korol 🚀
+## Hi there 👋🏻 I'm Korol  🏄🏻‍♂️
 
 ### DeFi Engineer <> HFT Bot Developer
 
