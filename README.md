@@ -8,7 +8,7 @@
 - ⛏️ Building HFT trading bots on Solana network.
 - 🔧 Developing DeFi protocols and yield strategies.
 - 🤲🏼 Contributing to open source DeFi projects.
-- 🦀 I will bypass any secure Cloudflare service on request
+- 🦀 I will bypass any secure Cloudflare service on request.
  
 <p align="left">
  <h4>Connect with me</h4>
